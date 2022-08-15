@@ -17,6 +17,6 @@ document.getElementById('btn-login').addEventListener('click', function () {
         window.location.href = 'bank.html';
     }
     else {
-        alert('You Bustard,Mf,Bitch why do you forget your password?? .')
+        alert('Make sure you enter your email & password correct .')
     }
 }) 
